@@ -56,6 +56,7 @@ const harkishan = {
 
 # ✨ What I Build
 
+
 | 💻 Projects         | 🚀 Features           | 🎨 UI             |
 | ------------------- | --------------------- | ----------------- |
 | Responsive Websites | Clean & Modern Design | Minimal UI        |
@@ -69,33 +70,12 @@ const harkishan = {
 # 📌 Featured Projects
 
 ## 💱 Currency Converter
-
-> Modern currency converter with clean UI and live exchange rates.
-
 🔗 Repo: [https://github.com/harkishan-22](https://github.com/harkishan-22)
-
----
 
 ## 🌦️ Weather App
-
-> Real-time weather application with responsive modern design.
-
 🔗 Repo: [https://github.com/harkishan-22](https://github.com/harkishan-22)
-
----
 
 ## 💸 Expense Tracker
-
-> Expense tracking app with dark UI and local storage support.
-
-🔗 Repo: [https://github.com/harkishan-22](https://github.com/harkishan-22)
-
----
-
-## 🎨 UI Design Projects
-
-> Beautiful modern UI components and landing page designs.
-
 🔗 Repo: [https://github.com/harkishan-22](https://github.com/harkishan-22)
 
 ---
@@ -105,9 +85,9 @@ const harkishan = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harkishan-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
+<br><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harkishan-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
+<br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harkishan-22&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
@@ -118,7 +98,7 @@ const harkishan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harkishan-22&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://vercel.app" />
 
 </div>
 
